@@ -33,9 +33,4 @@ A KDTree object is a tree of words sorted by the KDTree property. It has two att
 
   To start verifying the correctness of the tree class, I tested the buildTree method on small data sets. I checked that the tree satisfied the KDTree properties manually by, while creating the tree, printing nodes and their child nodes. 
   I tested the nearest neighbor method manually as well. One test was with a small dataset that could easily be verified. I also tested it by having the system.in words be the same as the words in the tree so for each word the nearest word was itself.
-
-
-If you completed part 2 or part 3, include 5 examples of words that are not in model.txt but that are found by a nearest neighbor search.
-
-
-
+  
